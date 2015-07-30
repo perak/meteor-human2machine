@@ -1,0 +1,3 @@
+[submodule "human2machine"]
+	path = human2machine
+	url = https://github.com/perak/human2machine.git
